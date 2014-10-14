@@ -1,0 +1,8 @@
+#Add search queries below. One per line.
+createSpeechRecognizer
+RecognizerIntent
+ACTION_RECOGNIZE_SPEECH
+VoiceRecognition
+SpeechRecognition
+android.speech.action.RECOGNIZE_SPEECH
+Speech

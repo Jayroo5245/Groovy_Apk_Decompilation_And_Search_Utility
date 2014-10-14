@@ -1,8 +1,3 @@
-Groovy_Apk_Decompilation_And_Search_Utility
-===========================================
-
-Need to decompile apks and then search the contents? This is the repo for you.
-
 This is README file for an Android Apk decompiler and search script
 
 This utility takes a directory with Android applications, converts all the apks
