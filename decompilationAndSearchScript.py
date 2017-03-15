@@ -24,7 +24,7 @@ import shutil
 APK_DIRECTORY = 'apks'
 
 # Download: http://code.google.com/p/dex2jar/
-DEX2JAR_HOME = "lib/dex2jar-0.0.9.11/d2j-dex2jar.sh"
+DEX2JAR_HOME = "lib/dex2jar-2.0/d2j-dex2jar.sh"
 
 # Good list of params that Jad takes:
 # http://www.rune-server.org/runescape-development/rs2-server/help/377966-help-please-lost-my-files-but-rep.html
